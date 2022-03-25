@@ -1,0 +1,78 @@
+.carousel{
+    width: 360px;
+    height: 500px;
+    color: navy;
+    text-shadow: 2px 2px palevioletred;
+    
+}
+
+body{
+    text-align: center;
+    background: rgb(236,64,103);
+background: linear-gradient(90deg, rgba(236,64,103,1) 0%, rgb(91, 45, 131) 100%);
+
+}
+.movie_head{
+font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+.movie_head i {
+	float: right;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(199, 153, 27);
+  }
+
+.movie_text span {
+	color: #ff7700;
+}
+.movie_head{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(69, 116, 218);
+    background-color: rgb(88, 14, 45);
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+    text-shadow: 2px 2px thistle;
+}
+
+p{color: azure;
+text-shadow: darkmagenta 2px 2px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.carousel-caption{
+  color: navy;
+    text-shadow: 2px 2px palevioletred;
+}
+
+nav{
+  background-color: #f26a8d;
+}
